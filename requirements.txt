@@ -1,0 +1,8 @@
+langchain
+langchain-community
+python-dotenv
+pymupdf
+langchain_milvus
+langchain_google_genai
+pymilvus
+docx
