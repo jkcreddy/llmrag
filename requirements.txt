@@ -6,3 +6,8 @@ langchain_milvus
 langchain_google_genai
 pymilvus
 docx
+langchain_huggingface
+sentence_transformers
+langchain-chroma
+chromadb
+langgraph
